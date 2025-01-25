@@ -1,0 +1,8 @@
+name;
+Erick ng`ang`a njihia
+hobbies:
+Swimming, listening to music, perticipating in bootcamps
+favorite quote or b/verse:
+All you need is to start
+ something interesting about data:
+ The dyversity at which data is manipulated to design models
